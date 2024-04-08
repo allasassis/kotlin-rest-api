@@ -8,4 +8,5 @@ class KotlinRestApiApplication
 
 fun main(args: Array<String>) {
 	runApplication<KotlinRestApiApplication>(*args)
+	println("Hello world with Kotlin and Spring")
 }
